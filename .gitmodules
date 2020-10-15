@@ -1,3 +1,0 @@
-[submodule "test-merge"]
-	path = test-merge
-	url = https://github.com/jkelroy/test-merge.git
