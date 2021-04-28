@@ -10,5 +10,9 @@ change
 asdf
 changeasdfasdfadsf
 asdf
+<<<<<<< HEAD
 asdfasdfasdfasdf
 asdf
+=======
+asdf
+>>>>>>> master
