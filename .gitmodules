@@ -1,0 +1,3 @@
+[submodule "example-repository"]
+	path = example-repository
+	url = https://github.com/jkelroy/example-repository.git
