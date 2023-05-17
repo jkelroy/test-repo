@@ -1,3 +1,4 @@
 *.LFS filter=lfs diff=lfs merge=lfs -text
 *.LFS-2 filter=lfs diff=lfs merge=lfs -text
 *.LFS-3 filter=lfs diff=lfs merge=lfs -text
+*.rtf filter=lfs diff=lfs merge=lfs -text
